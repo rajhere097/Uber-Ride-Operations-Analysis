@@ -52,4 +52,7 @@ Machine Learning Model
      ↓
 Power BI Dashboard
 👤 Author
-Ratnajit Chakraborty
+Ratnajit Chakraborty  
+Email: rajhere1997@gmail.com  
+LinkedIn: https://www.linkedin.com/in/ratnajit-chakraborty-076ab520a  
+GitHub: https://github.com/rajhere097
